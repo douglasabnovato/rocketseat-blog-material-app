@@ -29,7 +29,7 @@
 - `<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">`
 
 ##### fundo acinzentado no body, no index.css
-- ```js
+```js
 body {
   margin: 0;
   padding: 0;
