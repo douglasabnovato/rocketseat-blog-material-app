@@ -17,5 +17,11 @@
 #### `Integração do Material UI com ReactJS`
 - Whatsapp Web utilizando material-ui, uma biblioteca visual para ReactJS.
 
+##### instalar o Material UI
+- `npm install @material-ui/core`
+
+##### adicionar os componentes ícones
+- `npm install @material-ui/icons` 
+
 :. De `Integração do Material UI com ReactJS`.<br/> 
 Por Higo Ribeiro - Blog Rocketseat : https://blog.rocketseat.com.br/react-material-ui/
