@@ -25,8 +25,8 @@
 - `npm install @material-ui/icons`
 
 ##### adicionaremos os links das fonts Roboto e Fonts Icon
-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
-- <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+- `<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">`
+- `<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">`
 
 :. De `Integração do Material UI com ReactJS`.<br/> 
 Por Higo Ribeiro - Blog Rocketseat : https://blog.rocketseat.com.br/react-material-ui/
