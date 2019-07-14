@@ -14,8 +14,8 @@
 ![Yarn](/images/logo-yarn.png)
 ![Nodejs](/images/nodejs.png)
 
-#### `Integração`
-- UI do Whatsapp Web utilizando material-ui para os icons e components.
+#### `Integração do Material UI com ReactJS`
+- Whatsapp Web utilizando material-ui, uma biblioteca visual para ReactJS.
 
 :. De `Integração do Material UI com ReactJS`.<br/> 
 Por Higo Ribeiro - Blog Rocketseat : https://blog.rocketseat.com.br/react-material-ui/
