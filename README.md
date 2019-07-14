@@ -13,6 +13,7 @@
 ![VSCode](/images/logo-VSCode.png)
 ![Yarn](/images/logo-yarn.png)
 ![Nodejs](/images/nodejs.png)
+![Material Design Lite Google](/images/logo-material-design-lite-google.jpg)
 
 #### `Integração do Material UI com ReactJS`
 - Whatsapp Web utilizando material-ui, uma biblioteca visual para ReactJS.
@@ -21,7 +22,11 @@
 - `npm install @material-ui/core`
 
 ##### adicionar os componentes ícones
-- `npm install @material-ui/icons` 
+- `npm install @material-ui/icons`
+
+##### adicionaremos os links das fonts Roboto e Fonts Icon
+- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+- <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
 :. De `Integração do Material UI com ReactJS`.<br/> 
 Por Higo Ribeiro - Blog Rocketseat : https://blog.rocketseat.com.br/react-material-ui/
