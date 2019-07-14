@@ -88,9 +88,9 @@ const App = ({ classes }) => (
  * tamanho da nossa tela subtraindo os paddings de 50px do topo e rodapé. 
  */
 const list = [
-  { id: 1, name: "Diego", text: "Lorem ipsum", image: <ImageIcon /> },
-  { id: 2, name: "Robson", text: "Lorem ipsum", image: <WorkIcon /> },
-  { id: 3, name: "Cleiton", text: "Lorem ipsum", image: <BeachAccessIcon /> }
+  { id: 1, name: "Douglas", text: "Lorem ipsum", image: <ImageIcon /> },
+  { id: 2, name: "Tiago", text: "Lorem ipsum", image: <WorkIcon /> },
+  { id: 3, name: "Baraky", text: "Lorem ipsum", image: <BeachAccessIcon /> }
 ];
 
 /**
