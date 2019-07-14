@@ -37,6 +37,14 @@ body {
   background: "#dfdfdf";
 }
 ```
+##### função withStyles
+- injetamos um CSS customizado
+
+##### Fonts Icon
+- `@material-ui/icons` : ícones que queremos
+
+##### componentes estilizados e padronizados do Material UI
+- `@material-ui/core` : ícones que queremos
 
 :. De `Integração do Material UI com ReactJS`.<br/> 
 Por Higo Ribeiro - Blog Rocketseat : https://blog.rocketseat.com.br/react-material-ui/

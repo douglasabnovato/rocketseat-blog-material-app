@@ -1,9 +1,6 @@
 import React from "react";
 import { withStyles } from "@material-ui/core/styles";
 import MoreVertIcon from "@material-ui/icons/MoreVert";
-import ImageIcon from "@material-ui/icons/Image";
-import WorkIcon from "@material-ui/icons/Work";
-import BeachAccessIcon from "@material-ui/icons/BeachAccess";
 import {
   Paper,
   Typography,
@@ -17,6 +14,10 @@ import {
   ListItemText,
   IconButton
 } from "@material-ui/core";
+
+import ImageIcon from "@material-ui/icons/Image";
+import WorkIcon from "@material-ui/icons/Work";
+import BeachAccessIcon from "@material-ui/icons/BeachAccess";
 
 /**
  * CSS customizado - Material UI
@@ -66,12 +67,15 @@ const styles = () => ({
 /**
  * Componente Grid - responsivas
  * configurações de  propriedades: xs, sm, md, lg, xl
+ * o componente Grid, um sistema de colunas que vai de 1 a 12 
+ * representando a porcentagem de uma div. Isso acontece dentro 
+ * de uma div container, e as colunas são “itens” desse container.
  * */
 const App = ({ classes }) => (
   <div>
     <div className={classes.background} />
-    <Grid container className={classes.root}>
-      <Grid item xs={12}>
+    <Grid container className={classes.root}>{/*Grid pai */}
+      <Grid item xs={12}>{/*Grid filha : propriedade xs : as Grids são responsivas */}
         <Card className={classes.card}>
           <Grid container>
             <LeftContainer classes={classes} />
@@ -122,7 +126,10 @@ const LeftContainer = ({ classes }) => (
     </List>
   </Grid>
 );
-
+/**
+ * Cards : No nosso componente principal, dividimos em duas colunas. 
+ * dois componentes stateless: o LeftContainer e RightContainer.
+ */
 const RightContainer = ({ classes }) => (
   <Grid className={classes.heightAdjust} item xs={9}>
     <CardHeader
@@ -136,7 +143,7 @@ const RightContainer = ({ classes }) => (
           <MoreVertIcon />
         </IconButton>
       }
-      title="Diego"
+      title="@douglasabnovato"
     />
     <CardContent className={[classes.rightContainer, classes.content]} />
   </Grid>
