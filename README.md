@@ -4,9 +4,9 @@
 
 ![Layout do Whatsapp Web](/images/whatsapp-web-material-ui.jpg)
 
-### Atualização: 14 de agosto de 2019 
-### Criação: 06 de junho de 201
-### Prática : @douglasabnovato
+#### Atualização: 14 de agosto de 2019 
+#### Criação: 06 de junho de 201
+#### Prática : @douglasabnovato
 
 ### Ferramentas : 
 
