@@ -1,6 +1,4 @@
-### Whatsapp Web
-
-#### Aplicação
+### Whatsapp Web 
 
 ![Whatsapp Web](/images/whatsapp-web-material-ui.jpg)
 
