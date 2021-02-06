@@ -129,9 +129,4 @@ Feito com ❤️ por Douglas A B Novato 👋🏽 [Entre em contato!](https://www
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript 
 
-Fonte - [React: criando um site para empresas - Reginaldo Santos](https://www.youtube.com/watch?v=3I9xv-t42Q4)
- 
-
-
-
-:. De [Blog Rocketseat - Integração do Material UI com ReactJS - Higo Ribeiro](https://blog.rocketseat.com.br/react-material-ui/)
+Fonte [Blog Rocketseat - Integração do Material UI com ReactJS - Higo Ribeiro](https://blog.rocketseat.com.br/react-material-ui/) 
